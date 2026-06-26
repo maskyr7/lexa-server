@@ -2,6 +2,9 @@
   "name": "lexa-server",
   "version": "1.0.0",
   "type": "commonjs",
+  "engines": {
+    "node": "22.x"
+  },
   "dependencies": {
     "firebase-admin": "^14.1.0"
   }
